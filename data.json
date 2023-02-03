@@ -1,0 +1,34 @@
+let movies = `[
+    {
+        "name":"Titanic",
+        "desecreotion": "Titanic ist ein US-amerikanisches Spielfilmdrama aus dem Jahr 1997 unter der Regie von James Cameron",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TITANIC-Attrappe_des_Titanic-Museums_in_Branson_Missouri_USA.jpg/308px-TITANIC-Attrappe_des_Titanic-Museums_in_Branson_Missouri_USA.jpg"
+    },
+    {
+        "name":"The Italian Job",
+        "desecreotion": "The Italian Job Jagd auf Millionen ist ein Thriller aus dem Genre der Heist-Movies und eine Neuverfilmung von Felix Gary Gray aus dem Jahr 2003, die auf dem gleichnamigen Film von Peter Collinson, Charlie staubt Millionen",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Theitalianjob-logo.svg/358px-Theitalianjob-logo.svg.png"   
+    },
+
+    {
+        "name":"Matrix",
+        "desecreotion": "Matrix ist ein Science-Fiction-Film aus dem Jahr 1999. Regie führten die Wachowskis, die auch das Drehbuch schrieben und zum Zeitpunkt des Erscheinens noch unter dem Namen The Wachowski Brothers auftraten. Die Hauptrollen spielten Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss und Hugo Weaving. Im Mai 2003 folgte die Fortsetzung mit Matrix Reloaded, im November 2003 der dritte Teil Matrix Revolutions und im Dezember 2021 Teil 4 mit Matrix Resurrections.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3rjt_8G-wYdPEnqNoKpTa3nezsxQAH6e8LjtqcW2p&usqp=CAE&s"
+    },
+    {
+        "name":"The Godfather",
+        "desecreotion": "The Godfather is a 1972 American crime film[2] directed by Francis Ford Coppola, who co-wrote the screenplay with Mario Puzo, based on Puzo's best-selling 1969",
+        "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+    },
+    {
+        "name":"Stolen",
+        "desecreotion": "Stolen ist ein US-amerikanischer Actionthriller des Regisseurs Simon West aus dem Jahre 2012. Der Film wurde erstmals in Bahrain am 6. September 2012 veröffentlicht. Premiere war am 14. September in den USA und am 26. Oktober in Deutschland. In den Hauptrollen spielen Nicolas Cage, Danny Huston, Malin Åkerman, M.C. Gainey, Sami Gayle, Mark Valley und Josh Lucas",
+        "img": "https://m.media-amazon.com/images/I/91+iHWuMJTL._SY606_.jpg"
+    },
+    {
+        "name":"Inception",
+        "desecreotion": "Inception ist ein US-amerikanischer Science-Fiction-Heist-Film[3] aus dem Jahr 2010 und der siebte Spielfilm des britisch-US-amerikanischen Regisseurs Christopher Nolan, der auch das Drehbuch verfasste und als Produzent fungierte. Die Produktionskosten des Films betrugen 160 Millionen US-Dollar und wurden von den beiden ausführenden Filmproduktionsgesellschaften Warner Bros. und Legendary Pictures getragen.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU2ENvW9Jp6MXy155KBdki-HN0efa8qSohjtVomXXW&usqp=CAE&s"
+    }
+
+]`
